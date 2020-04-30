@@ -4,6 +4,7 @@ upload
 plugin/switch/temp
 
 # local env files
+db/*.db
 .env.local
 .env.*.local
 .env
