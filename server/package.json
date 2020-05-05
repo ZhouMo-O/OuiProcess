@@ -10,7 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "express": "^5.0.0-alpha.8",
-    "odbc": "^2.2.2",
     "sqlite3": "^4.2.0"
   }
 }
